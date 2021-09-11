@@ -3,5 +3,5 @@
 
 ## 使用
 
-通过Python的方式快速使用：[uiautomator2](https://github.com/openatx/uiautomator2)是一个使用Python封装的工具包，能够非常方便的使用UIAutomator，支持大部分场景，在使用过程中出现元素识别不了的，欢迎提Issues。
+通过Python的方式快速使用：[uiautomator2](https://github.com/openatx/uiautomator2)是一个使用Python封装的工具包，能够非常方便的使用UIAutomator，支持大部分场景，在使用过程中出现元素识别不了的以及其他问题，欢迎提Issues。
 
